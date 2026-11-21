@@ -1,0 +1,2 @@
+# Keep runtime payload byte-exact on every checkout.
+autorun/** -text

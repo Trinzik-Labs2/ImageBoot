@@ -1,0 +1,83 @@
+LOGOMAKER — SD-CARD DROP-IN EDITION
+Akai MPC Sample firmware 1.3.0.12 ONLY
+
+LogoMaker is an independent custom boot logo with optional sound. It is not
+affiliated with, endorsed by, or supported by Akai Professional. The SD-card
+package does not modify, replace, or flash original Akai firmware or app code.
+
+QUICK START
+1. Extract the download on your computer.
+2. Copy the complete autorun folder to the SD-card root.
+3. Open autorun/image. Replace the example logo.png with YOUR image.
+4. Open autorun/sound. Replace boot.mp3 with YOUR MP3, or delete it for silence.
+5. Keep exactly ONE image and ZERO or ONE MP3. Delete old files before using
+   a different filename. Keep the folder README.txt files.
+6. For owner-approved hardware use: back up projects, keep the MPC powered off
+   during card preparation/insertion, safely eject the card from your computer,
+   then insert it while the MPC is off and power on. Never insert this autorun
+   into an active project/session.
+
+SD CARD LAYOUT
+SD:/autorun/autorun.sh
+SD:/autorun/autorun.json
+SD:/autorun/image/your-picture.png
+SD:/autorun/sound/your-sound.mp3   (optional)
+...plus ALL supplied scripts, programs, manifests, licenses and readmes.
+Do not nest this inside another autorun folder or the downloaded outer folder.
+
+NO BUILD REQUIRED
+You do not need a GitHub account, repository, Python, FFmpeg or GitHub Actions.
+After replacing an image or MP3, the next cold boot reads the new files directly.
+Leave the program files alone. Editable media is separate from code checksums.
+Only image/ and sound/ contents are intended for customization.
+
+IMAGE RULES
+Supported: PNG, JPG/JPEG, BMP, GIF (first frame only), TGA.
+Recommended: PNG or JPG, preferably 320x240 or 640x480 for quick loading.
+The complete image is fitted proportionally, centered on a black 320x240 screen.
+Transparency is composited onto black. No crop or stretch is applied.
+JPEG uses stored pixel orientation: export/save your picture upright first.
+Maximum: 20 MiB per file, 4096 pixels per side, 8 megapixels total.
+WebP, HEIC, SVG and animated playback are not supported in this edition.
+Your picture is displayed as a STILL for three seconds. Eyes are not located
+or animated automatically. Larger images may add startup preparation time.
+
+SOUND RULES
+MP3 only, maximum 20 MiB. WAV/OGG/M4A/FLAC are not supported here.
+Choose a short clip of about three seconds. Longer MP3s stop with the logo;
+shorter MP3s finish early. Playback uses 50% software gain.
+Empty sound/ means a silent logo. Arbitrary filenames with spaces are allowed.
+Do not place multiple files or subfolders in either media folder.
+
+WHAT IT DOES
+Verifies the installed firmware/app and every program file before use.
+Decodes your image and copies optional sound into temporary RAM storage BEFORE
+stopping stock workflow. Invalid media leaves stock running and logs the reason.
+Shows a late startup logo; it does not replace the earliest stock boot screen.
+Audio begins from the first-frame signal and is stopped before workflow returns.
+No stock firmware is flashed/replaced. Removing the card while powered off
+turns the package off on the next boot; there is no firmware uninstall.
+
+SPEAKER ROUTING
+This edition includes the latest temporary speaker-routing CANDIDATE.
+It checks output jacks, saves original speaker/mic booleans in RAM, temporarily
+turns the speaker on with the mic off when no output jack is detected, and
+attempts restoration before stock workflow restarts. Actual speaker output and
+this new drop-in decoder are NOT yet hardware-verified. Existing headphone
+playback and the earlier native quick-logo architecture are owner-tested.
+
+TROUBLESHOOTING
+- No logo: check SD:/autorun/autorun.sh and confirm exactly one supported image.
+- No sound: use one genuine MP3, or sound/ may be empty; inspect the logs.
+- Multiple files: delete the previous image/sound after adding a new filename.
+- Corrupt media: replace it with a newly saved PNG/JPG/MP3 on your computer.
+- Checksum failure: replace the complete program package. Do not delete or edit
+  the manifest/check files, and do not mix files from different releases.
+- Logs: autorun/CustomLogo-status.txt and autorun/CustomLogo-runtime.txt.
+  Preserve both when reporting a problem. First-frame submission is not proof
+  of visible image or audible output.
+
+Keep a backup of the previous working package on your computer.
+No hardware operations were performed by the developer while building this.
+Source/limitations: https://github.com/Trinzik-Labs/CustomLogo
+Download/instructions: https://github.com/Trinzik-Labs2/ImageBoot

@@ -1,1 +1,74 @@
-IyBMb2dvTWFrZXIg4oCUIFNELWNhcmQgZHJvcC1pbiBlZGl0aW9uCgpQdXQgeW91ciBwaWN0dXJlIGFuZCBvcHRpb25hbCBNUDMgKippbnNpZGUgYGF1dG9ydW5gIG9uIHRoZSBTRCBjYXJkKiouIFRoZSBNUEMgcHJlcGFyZXMgdGhlbSBhdCBzdGFydHVwLiAqKk5vIEdpdEh1YiBhY2NvdW50LCByZXBvc2l0b3J5LCBQeXRob24sIEZGbXBlZywgQWN0aW9ucyBvciBidWlsZCBzdGVwIGlzIG5lZWRlZC4qKgoKRm9yICoqQWthaSBNUEMgU2FtcGxlIGZpcm13YXJlIDEuMy4wLjEyIG9ubHkqKi4gTG9nb01ha2VyIGlzIGFuIGluZGVwZW5kZW50IGN1c3RvbSBib290IGxvZ28gd2l0aCBvcHRpb25hbCBzb3VuZC4gSXQgaXMgbm90IGFmZmlsaWF0ZWQgd2l0aCwgZW5kb3JzZWQgYnksIG9yIHN1cHBvcnRlZCBieSBBa2FpIFByb2Zlc3Npb25hbC4gSXQgcnVucyBmcm9tIHRoZSBTRCBjYXJkIHdpdGhvdXQgbW9kaWZ5aW5nLCByZXBsYWNpbmcsIG9yIGZsYXNoaW5nIG9yaWdpbmFsIEFrYWkgZmlybXdhcmUgb3IgYXBwbGljYXRpb24gY29kZS4gVGhlIHN0b2NrIGFwcGxpY2F0aW9uIHRlbXBvcmFyaWx5IHN0b3BzIHRvIGRpc3BsYXkgdGhlIGxhdGUgc3RhcnR1cCBsb2dvLCB0aGVuIExvZ29NYWtlciByZXF1ZXN0cyBhIHJlc3RhcnQuCgojIyAxLiBEb3dubG9hZCBhbmQgY29weQoKW0Rvd25sb2FkIExvZ29NYWtlciBaSVBdKGh0dHBzOi8vZ2l0aHViLmNvbS9UcmluemlrLUxhYnMyL0ltYWdlQm9vdC9hcmNoaXZlL3JlZnMvaGVhZHMvbWFpbi56aXApLCB0aGVuIGV4dHJhY3QgaXQgb24geW91ciBjb21wdXRlci4gSW5zaWRlIGBMb2dvTWFrZXItbWFpbmAsIGNvcHkgdGhlIGNvbXBsZXRlICoqYGF1dG9ydW5gKiogZm9sZGVyIHRvIHRoZSBTRCBjYXJkIHJvb3QuIFJlcGxhY2UgdGhlIHByZXZpb3VzIGF1dG9ydW4gZm9sZGVyIGFzIGEgd2hvbGU7IGRvIG5vdCBtZXJnZSBwYWNrYWdlIHZlcnNpb25zIG9yIGNvbWJpbmUgYXV0b3J1biBhcHBsaWNhdGlvbnMuIEtlZXAgeW91ciBvbGQgd29ya2luZyBwYWNrYWdlIG9uIHlvdXIgY29tcHV0ZXIgYXMgYSBmYWxsYmFjay4KCllvdXIgY2FyZCBzaG91bGQgbG9vayBsaWtlIHRoaXM6CgpgYGB0ZXh0ClNEIGNhcmQvCuKUlOKUgOKUgCBhdXRvcnVuLwogICAg4pSc4pSA4pSAIGF1dG9ydW4uc2gKICAgIOKUnOKUgOKUgCBhdXRvcnVuLmpzb24KICAgIOKUnOKUgOKUgCBhdXRvcnVuLmNoZWNrCiAgICDilJzilIDilIAgaW1hZ2UvCiAgICDilIIgICDilJzilIDilIAgeW91ci1sb2dvLnBuZyAgICAgICDihpAgZXhhY3RseSBvbmUgaW1hZ2UKICAgIOKUgiAgIOKUlOKUgOKUgCBSRUFETUUudHh0CiAgICDilJzilIDilIAgc291bmQvCiAgICDilIIgICDilJzilIDilIAgeW91ci1zb3VuZC5tcDMgICAgICDihpAgb3B0aW9uYWw6IHplcm8gb3Igb25lIE1QMwogICAg4pSCICAg4pSU4pSA4pSAIFJFQURNRS50eHQKICAgIOKUnOKUgOKUgCBSRUFELU1FLnR4dAogICAg4pSU4pSA4pSAIGFsbCBvdGhlciBzdXBwbGllZCBwcm9ncmFtcywgc2NyaXB0cyBhbmQgbm90aWNlcwpgYGAKClRoZSBzdXBwbGllZCBgbG9nby5wbmdgIGFuZCBgYm9vdC5tcDNgIGFyZSBleGFtcGxlcy4gRGVsZXRlIG9yIHJlcGxhY2UgdGhlbSB3aGVuIGFkZGluZyB5b3VyIG93biBmaWxlcy4gRG8gbm90IGNvcHkgdGhlIG91dGVyIGBMb2dvTWFrZXItbWFpbmAgZm9sZGVyIG9udG8gdGhlIGNhcmQgb3IgY3JlYXRlIGBhdXRvcnVuL2F1dG9ydW5gLgoKIyMgMi4gQ2hvb3NlIHlvdXIgaW1hZ2UKCk9wZW4gKipgU0Q6XGF1dG9ydW5caW1hZ2VcYCoqIGFuZCBsZWF2ZSBleGFjdGx5IG9uZSBzdXBwb3J0ZWQgaW1hZ2UgdGhlcmUuIEFueSBmaWxlbmFtZSBpcyBmaW5lLiBJZiB5b3VyIG5ldyBmaWxlIGhhcyBhIGRpZmZlcmVudCBuYW1lLCBkZWxldGUgdGhlIG9sZCBpbWFnZSBmaXJzdC4gS2VlcCBgUkVBRE1FLnR4dGAuCgotICoqRm9ybWF0czoqKiBQTkcsIEpQRy9KUEVHLCBCTVAsIEdJRiAoZmlyc3QgZnJhbWUpLCBUR0EuIFBORy9KUEcgcmVjb21tZW5kZWQuCi0gKipGaXQ6KiogdGhlIGVudGlyZSBwaWN0dXJlIGlzIGNlbnRlcmVkIHByb3BvcnRpb25hbGx5IG9uIGEgYmxhY2sgMzIww5cyNDAgc2NyZWVuLiBObyBjcm9wIG9yIHN0cmV0Y2guIFRyYW5zcGFyZW50IHBpeGVscyBiZWNvbWUgYmxhY2suCi0gKipTaXplOioqIHVwIHRvIDIwIE1pQiwgNDA5NiBwaXhlbHMgcGVyIHNpZGUgYW5kIDggbWVnYXBpeGVscy4gU21hbGwgMzIww5cyNDAgb3IgNjQww5c0ODAgaW1hZ2VzIGxvYWQgZmFzdGVyLgotICoqT3JpZW50YXRpb246KiogZXhwb3J0L3NhdmUgdGhlIHBpY3R1cmUgdXByaWdodDsgSlBFRyBFWElGIGF1dG8tcm90YXRpb24gaXMgbm90IGFwcGxpZWQuCi0gKipOb3Qgc3VwcG9ydGVkOioqIFdlYlAsIEhFSUMsIFNWRyBvciBhbmltYXRlZCBwbGF5YmFjay4KCllvdXIgaW1hZ2UgaXMgYSAqKnN0aWxsIGxvZ28gZm9yIHRocmVlIHNlY29uZHMqKi4gVGhlIHBhY2thZ2UgZG9lcyBub3QgYXV0b21hdGljYWxseSBkZXRlY3Qgb3IgYW5pbWF0ZSBleWVzIGluIGFyYml0cmFyeSBwaWN0dXJlcy4gTXVsdGlwbGUgaW1hZ2VzLCBzdWJmb2xkZXJzLCBzaG9ydGN1dHMgb3IgY29ycnVwdCBmaWxlcyBjYXVzZSBhIGxvZ2dlZCBza2lwIHdoaWxlIHN0b2NrIHJlbWFpbnMgcnVubmluZy4KCiMjIDMuIENob29zZSB5b3VyIHNvdW5k4oCUb3IgdXNlIHNpbGVuY2UKCk9wZW4gKipgU0Q6XGF1dG9ydW5cc291bmRcYCoqIGFuZCBsZWF2ZSB6ZXJvIG9yIG9uZSAqKk1QMyoqIHRoZXJlLiBSZXBsYWNlL2RlbGV0ZSB0aGUgZXhhbXBsZSBgYm9vdC5tcDNgOyBrZWVwIGBSRUFETUUudHh0YC4gTGVhdmUgbm8gTVAzIGZvciBhIHNpbGVudCBsb2dvLiBBbnkgTVAzIGZpbGVuYW1lLCBpbmNsdWRpbmcgc3BhY2VzLCBpcyBmaW5lLgoKVXNlIGEgY2xpcCBhYm91dCB0aHJlZSBzZWNvbmRzIGxvbmcuIFNob3J0IGNsaXBzIGZpbmlzaCBlYXJseTsgbG9uZ2VyIGNsaXBzIGFyZSBzdG9wcGVkIHdoZW4gdGhlIGxvZ28gZW5kcy4gUGxheWJhY2sgdXNlcyAqKjUwJSBzb2Z0d2FyZSBnYWluKiouIE1heGltdW0gaW5wdXQgaXMgMjAgTWlCLiBXQVYsIE9HRywgRkxBQyBhbmQgTTRBIGFyZSBub3Qgc3VwcG9ydGVkIGluIHRoaXMgZWRpdGlvbjsgZXhwb3J0IHRoZSBzb3VuZCBhcyBNUDMgZmlyc3QuCgojIyA0LiBPd25lci1hcHByb3ZlZCBoYXJkd2FyZSB1c2UKCkJhY2sgdXAgcHJvamVjdHMuIEtlZXAgdGhlIE1QQyBwb3dlcmVkIG9mZiBkdXJpbmcgY2FyZCBwcmVwYXJhdGlvbiBhbmQgaW5zZXJ0aW9uLiBTYWZlbHkgZWplY3QgdGhlIGNhcmQgZnJvbSB5b3VyIGNvbXB1dGVyIGJlZm9yZSBpbnNlcnRpbmcgaXQsIHRoZW4gcG93ZXIgb24uIERvIG5vdCBpbnNlcnQgdGhpcyBhdXRvcnVuIGludG8gYW4gYWN0aXZlIHByb2plY3Qvc2Vzc2lvbi4KCkV2ZXJ5IGNvbGQgYm9vdCByZWFkcyB0aGUgY3VycmVudCBpbWFnZSBhbmQgTVAzIGZyb20gdGhvc2UgZm9sZGVycywgc28gKip5b3UgZG8gbm90IHJlYnVpbGQgYW55dGhpbmcgYWZ0ZXIgcmVwbGFjaW5nIGZpbGVzKiouIFRoZSBwYWNrYWdlIHByZXBhcmVzIGRhdGEgaW4gdGVtcG9yYXJ5IFJBTSBiZWZvcmUgc3RvcHBpbmcgc3RvY2sgd29ya2Zsb3cuIFByb2dyYW0vZmlybXdhcmUgaW50ZWdyaXR5IGNoZWNrcyBhbmQgcmVjb3ZlcnkgcmVtYWluIGVuYWJsZWQuIFJlbW92aW5nIHRoZSBjYXJkIHdoaWxlIHBvd2VyZWQgb2ZmIGRpc2FibGVzIExvZ29NYWtlciBvbiB0aGUgbmV4dCBib290OyBubyBmaXJtd2FyZSB1bmluc3RhbGwgb3IgZmxhc2ggaXMgbmVlZGVkLgoKIyMgS2VlcCB0aGUgb3RoZXIgZmlsZXMgaW50YWN0CgpPbmx5IGBpbWFnZS9gIGFuZCBgc291bmQvYCBhcmUgY3VzdG9taXphdGlvbiBmb2xkZXJzLiBUaGUgb3RoZXIgc3VwcGxpZWQgZmlsZXMgYXJlIHByb2dyYW1zLCBpbnRlZ3JpdHkgY2hlY2tzIGFuZCByZWNvdmVyeSBjb21wb25lbnRzLiBEbyBub3QgZWRpdCwgcmVuYW1lLCByZXNhdmUgb3IgZGVsZXRlIHRoZW0uIEVkaXRhYmxlIG1lZGlhIGlzIGludGVudGlvbmFsbHkgc2VwYXJhdGUgZnJvbSB0aGUgcHJvdGVjdGVkIGNvZGUgY2hlY2tzdW1zLgoKVGhlIGluY2x1ZGVkIHRlbXBvcmFyeSBzcGVha2VyLXJvdXRpbmcgY2FuZGlkYXRlIGNoZWNrcyBvdXRwdXQgamFja3MsIHNhdmVzIG9yaWdpbmFsIHNwZWFrZXIvbWljIHZhbHVlcyBpbiBSQU0sIHRlbXBvcmFyaWx5IGVuYWJsZXMgdGhlIHNwZWFrZXIgd2l0aCB0aGUgbWljIG9mZiB3aGVuIG5vIG91dHB1dCBqYWNrIGlzIHByZXNlbnQsIGFuZCBhdHRlbXB0cyByZXN0b3JhdGlvbiBiZWZvcmUgd29ya2Zsb3cgcmV0dXJucy4gQWN0dWFsIHNwZWFrZXIgb3BlcmF0aW9uIGlzIHN0aWxsIGhhcmR3YXJlLXVudmVyaWZpZWQuIEV4aXN0aW5nIG5hdGl2ZSBxdWljay1sb2dvIGFuZCBoZWFkcGhvbmUtcGxheWJhY2sgYXJjaGl0ZWN0dXJlIGlzIG93bmVyLXRlc3RlZDsgdGhpcyBuZXcgb24tZGV2aWNlIGRyb3AtaW4gZGVjb2RlciBpcyAqKmhvc3QtdGVzdGVkLCBhd2FpdGluZyBNUEMgdmVyaWZpY2F0aW9uKiouCgojIyBUcm91Ymxlc2hvb3RpbmcKCnwgU3ltcHRvbSB8IENoZWNrIHwKfCAtLS0gfCAtLS0gfAp8IFN0b2NrIHN0YXJ0cyBidXQgbm8gY3VzdG9tIGxvZ28gfCBDb3JyZWN0IGBTRDpcYXV0b3J1blxhdXRvcnVuLnNoYCBsYXlvdXQ7IGV4YWN0bHkgb25lIHN1cHBvcnRlZCBpbWFnZTsgZ2VudWluZSB1bmNvcnJ1cHRlZCBmaWxlLiB8CnwgT2xkIGltYWdlIGlzIHN0aWxsIHByZXNlbnQgfCBSZW1vdmUgdGhlIGV4YW1wbGUvb2xkIGZpbGUgYmVmb3JlIGFkZGluZyBhIGRpZmZlcmVudCBmaWxlbmFtZTsgZG8gbm90IGxlYXZlIHR3byBpbWFnZXMuIHwKfCBObyBzb3VuZCB8IE9uZSBnZW51aW5lIE1QMyBpbiBgYXV0b3J1bi9zb3VuZGA7IGNoZWNrIG91dHB1dCBjb25uZWN0aW9ucyBhbmQgbG9ncy4gTm8gTVAzIG1lYW5zIHNpbGVuY2UuIHwKfCBJbWFnZSByb3RhdGVkIHVuZXhwZWN0ZWRseSB8IEV4cG9ydCBhbiB1cHJpZ2h0IFBORy9KUEcgaW5zdGVhZCBvZiByZWx5aW5nIG9uIEVYSUYgb3JpZW50YXRpb24uIHwKfCBTbG93IHByZXBhcmF0aW9uIHwgVXNlIGEgc21hbGxlciBQTkcvSlBHIGFuZCBhIHNob3J0IE1QMzsgdGhlIG5ldyBvbi1kZXZpY2UgcHJlcGFyYXRpb24gdGltZSBpcyBub3QgeWV0IG1lYXN1cmVkLiB8CnwgQ2hlY2tzdW0gZmFpbHVyZSB8IFJlcGxhY2UgdGhlIGNvbXBsZXRlIHByb2dyYW0gcGFja2FnZS4gRG8gbm90IHJlbW92ZSBjaGVja3MgdG8gYnlwYXNzIGFuIGVycm9yLiB8CgpMb2dzIGFyZSB3cml0dGVuIHRvIGBhdXRvcnVuL0N1c3RvbUxvZ28tc3RhdHVzLnR4dGAgYW5kIGBhdXRvcnVuL0N1c3RvbUxvZ28tcnVudGltZS50eHRgLiBQcmVzZXJ2ZSBib3RoIHdoZW4gcmVwb3J0aW5nIGEgcHJvYmxlbS4gVGhlc2UgZmlsZXMgY2FuIGNvbmZpcm0gc3RhZ2VzL2Vycm9ycywgYnV0IGEgc3VibWl0dGVkIGZyYW1lL3BsYXllciBzdGFydCBpcyBub3QgcHJvb2Ygb2YgdmlzaWJsZS9hdWRpYmxlIG91dHB1dC4KCioqW0RldGFpbGVkIG9mZmxpbmUgaW5zdHJ1Y3Rpb25zXShhdXRvcnVuL1JFQUQtTUUudHh0KSoqIGFyZSBhbHNvIGluY2x1ZGVkIGluc2lkZSB0aGUgZm9sZGVyIHlvdSBjb3B5IHRvIHRoZSBjYXJkLiBEZXZlbG9wbWVudCBzb3VyY2UsIHRlc3RzLCBkZXBlbmRlbmN5IG5vdGljZXMgYW5kIGxpbWl0cyBsaXZlIGluIFtDdXN0b21Mb2dvXShodHRwczovL2dpdGh1Yi5jb20vVHJpbnppay1MYWJzL0N1c3RvbUxvZ28vYmxvYi9tYWluL2RvY3Mvc2QtZHJvcGluLm1kKS4gQWxsIDkwIGhvc3QgdGVzdHMgcGFzczsgbm8gaGFyZHdhcmUgdGVzdCBvZiB0aGlzIG5ldyBlZGl0aW9uIHdhcyBwZXJmb3JtZWQgYnkgdGhlIGRldmVsb3Blci4K
+# LogoMaker — SD-card drop-in edition
+
+Put your picture and optional MP3 **inside `autorun` on the SD card**. The MPC prepares them at startup. **No GitHub account, repository, Python, FFmpeg, Actions or build step is needed.**
+
+For **Akai MPC Sample firmware 1.3.0.12 only**. LogoMaker is an independent custom boot logo with optional sound. It is not affiliated with, endorsed by, or supported by Akai Professional. It runs from the SD card without modifying, replacing, or flashing original Akai firmware or application code. The stock application temporarily stops to display the late startup logo, then LogoMaker requests a restart.
+
+## 1. Download and copy
+
+[Download LogoMaker ZIP](https://github.com/Trinzik-Labs2/ImageBoot/archive/refs/heads/main.zip), then extract it on your computer. Inside `LogoMaker-main`, copy the complete **`autorun`** folder to the SD card root. Replace the previous autorun folder as a whole; do not merge package versions or combine autorun applications. Keep your old working package on your computer as a fallback.
+
+Your card should look like this:
+
+```text
+SD card/
+└── autorun/
+    ├── autorun.sh
+    ├── autorun.json
+    ├── autorun.check
+    ├── image/
+    │   ├── your-logo.png       ← exactly one image
+    │   └── README.txt
+    ├── sound/
+    │   ├── your-sound.mp3      ← optional: zero or one MP3
+    │   └── README.txt
+    ├── READ-ME.txt
+    └── all other supplied programs, scripts and notices
+```
+
+The supplied `logo.png` and `boot.mp3` are examples. Delete or replace them when adding your own files. Do not copy the outer `LogoMaker-main` folder onto the card or create `autorun/autorun`.
+
+## 2. Choose your image
+
+Open **`SD:\autorun\image\`** and leave exactly one supported image there. Any filename is fine. If your new file has a different name, delete the old image first. Keep `README.txt`.
+
+- **Formats:** PNG, JPG/JPEG, BMP, GIF (first frame), TGA. PNG/JPG recommended.
+- **Fit:** the entire picture is centered proportionally on a black 320×240 screen. No crop or stretch. Transparent pixels become black.
+- **Size:** up to 20 MiB, 4096 pixels per side and 8 megapixels. Small 320×240 or 640×480 images load faster.
+- **Orientation:** export/save the picture upright; JPEG EXIF auto-rotation is not applied.
+- **Not supported:** WebP, HEIC, SVG or animated playback.
+
+Your image is a **still logo for three seconds**. The package does not automatically detect or animate eyes in arbitrary pictures. Multiple images, subfolders, shortcuts or corrupt files cause a logged skip while stock remains running.
+
+## 3. Choose your sound—or use silence
+
+Open **`SD:\autorun\sound\`** and leave zero or one **MP3** there. Replace/delete the example `boot.mp3`; keep `README.txt`. Leave no MP3 for a silent logo. Any MP3 filename, including spaces, is fine.
+
+Use a clip about three seconds long. Short clips finish early; longer clips are stopped when the logo ends. Playback uses **50% software gain**. Maximum input is 20 MiB. WAV, OGG, FLAC and M4A are not supported in this edition; export the sound as MP3 first.
+
+## 4. Owner-approved hardware use
+
+Back up projects. Keep the MPC powered off during card preparation and insertion. Safely eject the card from your computer before inserting it, then power on. Do not insert this autorun into an active project/session.
+
+Every cold boot reads the current image and MP3 from those folders, so **you do not rebuild anything after replacing files**. The package prepares data in temporary RAM before stopping stock workflow. Program/firmware integrity checks and recovery remain enabled. Removing the card while powered off disables LogoMaker on the next boot; no firmware uninstall or flash is needed.
+
+## Keep the other files intact
+
+Only `image/` and `sound/` are customization folders. The other supplied files are programs, integrity checks and recovery components. Do not edit, rename, resave or delete them. Editable media is intentionally separate from the protected code checksums.
+
+The included temporary speaker-routing candidate checks output jacks, saves original speaker/mic values in RAM, temporarily enables the speaker with the mic off when no output jack is present, and attempts restoration before workflow returns. Actual speaker operation is still hardware-unverified. Existing native quick-logo and headphone-playback architecture is owner-tested; this new on-device drop-in decoder is **host-tested, awaiting MPC verification**.
+
+## Troubleshooting
+
+| Symptom | Check |
+| --- | --- |
+| Stock starts but no custom logo | Correct `SD:\autorun\autorun.sh` layout; exactly one supported image; genuine uncorrupted file. |
+| Old image is still present | Remove the example/old file before adding a different filename; do not leave two images. |
+| No sound | One genuine MP3 in `autorun/sound`; check output connections and logs. No MP3 means silence. |
+| Image rotated unexpectedly | Export an upright PNG/JPG instead of relying on EXIF orientation. |
+| Slow preparation | Use a smaller PNG/JPG and a short MP3; the new on-device preparation time is not yet measured. |
+| Checksum failure | Replace the complete program package. Do not remove checks to bypass an error. |
+
+Logs are written to `autorun/CustomLogo-status.txt` and `autorun/CustomLogo-runtime.txt`. Preserve both when reporting a problem. These files can confirm stages/errors, but a submitted frame/player start is not proof of visible/audible output.
+
+**[Detailed offline instructions](autorun/READ-ME.txt)** are also included inside the folder you copy to the card. Development source, tests, dependency notices and limits live in [CustomLogo](https://github.com/Trinzik-Labs/CustomLogo/blob/main/docs/sd-dropin.md). All 90 host tests pass; no hardware test of this new edition was performed by the developer.

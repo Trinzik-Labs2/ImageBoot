@@ -1,0 +1,4 @@
+/dist/
+__pycache__/
+autorun/CustomLogo-status.txt
+autorun/CustomLogo-runtime.txt

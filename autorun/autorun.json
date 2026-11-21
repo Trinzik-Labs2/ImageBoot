@@ -1,0 +1,14 @@
+{
+  "value0": {
+    "scripts": [
+      {
+        "path": "autorun.sh",
+        "askQuestion": false,
+        "message": "CustomLogo v3 LogoMaker SD drop-in image and optional sound",
+        "yesButtonText": "Start",
+        "noButtonText": "Stock"
+      }
+    ],
+    "files": []
+  }
+}
